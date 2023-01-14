@@ -1,0 +1,21 @@
+.men {
+    font-weight: 500;
+    color: black;
+}
+
+li {
+    margin-left: 40px;
+}
+
+.sign {
+    padding: 10px 40px;
+    background-color: #21B573;
+    color: white;
+    border-radius: 20px;
+    border: none;
+}
+
+.learn {
+    color: #FD511A;
+
+}
